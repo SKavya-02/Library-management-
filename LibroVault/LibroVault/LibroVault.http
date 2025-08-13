@@ -1,0 +1,6 @@
+@LibroVault_HostAddress = http://localhost:5065
+
+GET {{LibroVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|d:\\role based c# training\\library management system\\librovault\\librovault\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6062FF-F1FD-443B-AAAF-13A28146C7E3}|LibroVault\\Library.API.csproj|solutionrelative:librovault\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Program.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Program.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Program.cs",
+              "RelativeToolTip": "LibroVault\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:58:05.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "LibroVault\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:09:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\appsettings.json",
+              "RelativeDocumentMoniker": "LibroVault\\appsettings.json",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\appsettings.json",
+              "RelativeToolTip": "LibroVault\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T20:01:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibroVault\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:17:13.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Models\\Book.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Models\\Book.cs",
+              "RelativeToolTip": "LibroVault\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:34:13.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibroVault\\DTO\\BookDto.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\BookDto.cs",
+              "RelativeToolTip": "LibroVault\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:13:58.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibroVault\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:13:18.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "LibroVault\\DTO\\ReviewDto.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\ReviewDto.cs",
+              "RelativeToolTip": "LibroVault\\DTO\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:10:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LibroVault\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LibroVault\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:24:06.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\AdminDto.cs",
+              "RelativeDocumentMoniker": "LibroVault\\DTO\\AdminDto.cs",
+              "ToolTip": "D:\\Role based C# Training\\LIBRARY MANAGEMENT SYSTEM\\LibroVault\\LibroVault\\DTO\\AdminDto.cs",
+              "RelativeToolTip": "LibroVault\\DTO\\AdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:23:54.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
